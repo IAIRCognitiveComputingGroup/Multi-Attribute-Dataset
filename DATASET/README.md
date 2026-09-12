@@ -6,13 +6,10 @@ The dataset files will be hosted on Hugging Face. The download link and instruct
 
 ## License
 
-The license for MAD's original annotations and split definitions is being finalized and will be published here before the dataset release. This README does not grant new permissions to use or redistribute the dataset.
-
-The annotation and split license will be specified separately from the rights in source images, third-party pretrained embeddings, and software.
-
-The source images were obtained through ImageNet, and their copyrights remain with their respective rights holders. See [ImageNet's copyright statement](https://www.image-net.org/about.php) and [access conditions](https://www.image-net.org/download.php).
-
-The repository's [BSD 3-Clause software license](../LICENSE) does not by itself grant rights in third-party source images.
+- Our original contributions to MAD, including the annotations and split definitions, are released under the [Creative Commons Attribution 4.0 International license (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). This permits commercial and non-commercial use, sharing, and adaptation under the license terms.
+- This license covers only rights in the original MAD contributions that we are authorized to grant. It does not cover the source images, third-party pretrained embeddings, or software.
+- The source images were obtained through ImageNet, and their copyrights remain with their respective rights holders. Users must comply with the applicable image rights and access conditions; the MAD annotation license grants no additional rights in those images. See [ImageNet's copyright statement](https://www.image-net.org/about.php) and [access conditions](https://www.image-net.org/download.php).
+- This dataset license is separate from the repository's [BSD 3-Clause software license](../LICENSE).
 
 ## Citation
 
